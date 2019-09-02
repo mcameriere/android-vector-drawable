@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="pie_chart"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="600"
+    android:viewportHeight="600">
+
+    <group
+        android:translateX="300.0"
+        android:translateY="300.0">
+
+        <path
+            android:fillColor="@android:color/holo_red_dark"
+            android:pathData="M 1.8369701987210297E-14 -300.0 A 300.0 300.0 0 0 1 259.8076211353316 149.99999999999997 L 173.20508075688775 99.99999999999999 A 200.0 200.0 0 0 0 1.2246467991473532E-14 -200.0 Z" />
+
+        <path
+            android:fillColor="@android:color/holo_green_dark"
+            android:pathData="M 259.8076211353316 149.99999999999997 A 300.0 300.0 0 0 1 -259.8076211353316 149.99999999999997 L -173.20508075688775 99.99999999999999 A 200.0 200.0 0 0 0 173.20508075688775 99.99999999999999 Z" />
+        <path
+            android:fillColor="@android:color/holo_blue_dark"
+            android:pathData="M -259.8076211353316 149.99999999999997 A 300.0 300.0 0 0 1 0 -300.0 L 0 -200.0 A 200.0 200.0 0 0 0 -173.20508075688775 99.99999999999999 Z" />
+
+    </group>
+
+</vector>
